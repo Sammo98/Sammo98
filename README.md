@@ -1,0 +1,5 @@
+- Hi, I’m @Sammo98
+- I’m interested in Data Science with an emphasis on webscraping techniques and applying machine learning to data sets for investment purposes.
+- I’m currently learning Selenium and Scrapy for webscraping, and am looking to migrate current machine learning skills from R to Python. As well as plans to build an algotrading bot.
+- I’m looking to collaborate on anything related to Venture Capital data (from Pitchbook/Crunchbase etc.), whether that be from a data curation/collection perspective or from a machine learning perspective.
+- I've just created a LinkedIn scraper (please see repo) which is slow due to the use of selenium and LinkedIn anti-botting measures, please see code and change as you would like to scrape details on companies.
